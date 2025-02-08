@@ -36,7 +36,7 @@
 # ----------
 #
 # git remote add origin https://github.com/mahadevaprabhug/python_training_8.git
-#// My link//
+#// My link//https://github.com/jhansikanaparthi/python_training
 ############################
 # ----------
 # PUSH code from local repository(Laptop) to github repository
